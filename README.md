@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://emmanueljf.github.io/resume/)](https://emmanueljf.github.io/resume/)
+[![Resume Preview](<img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">)](https://emmanueljf.github.io/resume/)
 
 **[View Live Preview](https://emmanueljf.github.io/resume/)**
 
